@@ -8,7 +8,7 @@ It's created every time you back up your snippets and push to git.
 ### Installation
 Fork the repository, to be able to export your own snippets and cheat-sheet. <br>
 You can save the repository wherever you want. <br>
-`$ git clone https://github.com/mneorr/snippie.git xcode-snippets` <br>
+`$ git clone git@github.com:mneorr/xcode-snippets-manager.git xcode-snippets` <br>
 `$ cd xcode-snippets` <br>
 `$ bundle install`
 
@@ -39,7 +39,6 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 		
 * Delegate pragma mark - `delpragma`
 * Image View With Image Named - `imgimg`
-* Release object - `release`
 * Property Custom class - `pobj`
 * Property From dictionary - `pvfk`
 * View did dissapear - `vdd`
@@ -47,6 +46,7 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 * Pragma Mark - `mark`
 * Private Pragma mark - `pmark`
 * Better Initializer - `init`
+* Define Delegate Property - `defdel`
 * View Will Appear - `vwa`
 * NSLog - `log`
 * Factory method with Dictionary - `facdict`
@@ -55,12 +55,14 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 * Pragma - View Lifecycle - `pview`
 * View Did Load - `vdl`
 * View Did Unload - `vdu`
-*  - ``
+* Log CGRect - `logrect`
 * View Did Appear - `vda`
-* NSString with format - `swf`
 * Property String - `pstr`
+* Add Child ViewController - `addVC`
 * Init With Dictionary - `initdict`
+* StringWithFormat - `swf`
 * Value For Key - `vfk`
+* Pragma Mark - `mark`
 * Property NSNumber - `pnum`
 * UIViewController pragma marks - `conpragmas`
 * Singleton - `singleton`

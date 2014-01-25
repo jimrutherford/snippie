@@ -5,4 +5,7 @@
 //
 Copy / Paste in Xcode:
 
-- (void)<#metod name#> 
+- (void)<#metod name#>
+{
+    
+}
