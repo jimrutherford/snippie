@@ -44,7 +44,6 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 * View did dissapear - `vdd`
 * View Will Dissappear - `vwd`
 * Pragma Mark - `mark`
-* Private Pragma mark - `pmark`
 * Better Initializer - `init`
 * Define Delegate Property - `defdel`
 * View Will Appear - `vwa`
@@ -62,9 +61,8 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 * Init With Dictionary - `initdict`
 * StringWithFormat - `swf`
 * Value For Key - `vfk`
-* Pragma Mark - `mark`
 * Property NSNumber - `pnum`
-* UIViewController pragma marks - `conpragmas`
+*  - `conpragmas`
 * Singleton - `singleton`
 * Image named - `inamed`
 * Property IBOutlet custom class - `pibo`

@@ -15,9 +15,6 @@
 
 #pragma mark - View lifecycle
 
-- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
-    return (interfaceOrientation == UIInterfaceOrientationPortrait);
-}
 
 
 #pragma mark - Public
@@ -31,7 +28,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Pragma marks for the better code organisation. Private on the top eliminates the need of declaring a private interface.</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>UIViewController pragma marks</string>
+	<string></string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
