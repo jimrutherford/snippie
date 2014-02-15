@@ -1,0 +1,5 @@
+# Logfile created on 2014-01-25 14:30:06 -0800 by logger.rb/41954
+I, [2014-01-25T14:30:06.139618 #26745]  INFO -- : 0:  rake (0.9.2.2) from /Users/rutherfj/.rvm/gems/ruby-2.0.0-p353-pp353/specifications/rake-0.9.2.2.gemspec
+I, [2014-01-25T14:30:13.403618 #26745]  INFO -- : 0:  nokogiri (1.5.0) from /Users/rutherfj/.rvm/gems/ruby-2.0.0-p353-pp353/specifications/nokogiri-1.5.0.gemspec
+I, [2014-01-25T14:30:14.035331 #26745]  INFO -- : 0:  nokogiri-plist (0.5.0) from /Users/rutherfj/.rvm/gems/ruby-2.0.0-p353-pp353/specifications/nokogiri-plist-0.5.0.gemspec
+I, [2014-01-25T14:30:14.035902 #26745]  INFO -- : 0:  bundler (1.5.1) from /Users/rutherfj/.rvm/gems/ruby-2.0.0-p353-pp353@global/specifications/bundler-1.5.1.gemspec
