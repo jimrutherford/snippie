@@ -41,6 +41,7 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 * Image View With Image Named - `imgimg`
 * Property Custom class - `pobj`
 * Property From dictionary - `pvfk`
+* Private Interface - `privateint`
 * View did dissapear - `vdd`
 * View Will Dissappear - `vwd`
 * Pragma Mark - `mark`
@@ -51,7 +52,6 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 * Factory method with Dictionary - `facdict`
 * @Synthesizer with _prefix - `psynth`
 * Private Category - `privcat`
-* Pragma - View Lifecycle - `pview`
 * View Did Load - `vdl`
 * View Did Unload - `vdu`
 * Log CGRect - `logrect`

@@ -3,20 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>swf</string>
+	<string>privateint</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
-		<string>CodeBlock</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[NSString stringWithFormat:@"%&lt;#type#&gt;", &lt;#param#&gt;]</string>
+	<string>@interface &lt;#className#&gt;()
+{
+    
+}
+
+@end</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>ABBB1708-C79A-4E76-8B4C-BA2D12629E2E</string>
+	<string>20A08C47-664A-4BDA-9E2A-009676C89D4B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>StringWithFormat</string>
+	<string>Private Interface</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
