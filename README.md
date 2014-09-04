@@ -45,15 +45,18 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 * View did dissapear - `vdd`
 * View Will Dissappear - `vwd`
 * Pragma Mark - `mark`
+* Weak Self - `ws`
 * Better Initializer - `init`
 * Define Delegate Property - `defdel`
 * View Will Appear - `vwa`
+* NSURLSessionTask - `task`
 * NSLog - `log`
 * Factory method with Dictionary - `facdict`
 * @Synthesizer with _prefix - `psynth`
 * Private Category - `privcat`
 * View Did Load - `vdl`
 * View Did Unload - `vdu`
+* Text Expectation - `testex`
 * Log CGRect - `logrect`
 * View Did Appear - `vda`
 * Property String - `pstr`

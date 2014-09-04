@@ -1,8 +1,8 @@
-//Log CGRect
+//Weak Self
 //
 //
 //Completion scopes: ["CodeBlock"]
 //
 Copy / Paste in Xcode:
 
-NSLog(@"%@", NSStringFromCGRect(<#rect#>));
+__weak __typeof(self) weakSelf = self;
