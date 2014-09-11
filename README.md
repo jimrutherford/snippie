@@ -42,6 +42,7 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 * Property Custom class - `pobj`
 * Property From dictionary - `pvfk`
 * Private Interface - `privateint`
+* Property - strong - `pns`
 * View did dissapear - `vdd`
 * View Will Dissappear - `vwd`
 * Pragma Mark - `mark`
@@ -59,6 +60,7 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 * Text Expectation - `testex`
 * Log CGRect - `logrect`
 * View Did Appear - `vda`
+* Realm Write Transaction - `rw`
 * Property String - `pstr`
 * Add Child ViewController - `addVC`
 * Init With Dictionary - `initdict`

@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ws</string>
+	<string>rw</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__weak __typeof(self) weakSelf = self;</string>
+	<string>[&lt;#realm#&gt; beginWriteTransaction];
+    &lt;#code#&gt;
+[&lt;#realm#&gt; commitWriteTransaction];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3A17B874-D92F-405A-94D4-A4F9123F4DFD</string>
+	<string>929E0A34-0B31-4316-8682-FEEAAFD3D89E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Weak Self</string>
+	<string>Realm Write Transaction</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

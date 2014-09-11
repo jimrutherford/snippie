@@ -32,10 +32,17 @@
     return &lt;#numberOfRows#&gt;;
 }
 
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    return &lt;#height#&gt;;
+}
 
 #pragma mark - Tableview delegate
 
-- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {}
+- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    
+}
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EE946858-7D2A-4B72-A2A9-AAE18138BEF7</string>
