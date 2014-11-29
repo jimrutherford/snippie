@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pns</string>
+	<string>lerror</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) &lt;#type#&gt; *&lt;#name#&gt;;</string>
+	<string>DDLogError(@"%&lt;#type#&gt;", &lt;#param#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>232223C5-2761-4CA1-B99B-D8C8851224FC</string>
+	<string>B94FFF5D-CF97-434A-AC04-A11B274D0BDD</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property - strong</string>
+	<string>DDLogError</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

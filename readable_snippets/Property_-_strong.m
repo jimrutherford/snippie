@@ -1,7 +1,7 @@
 //Property - strong
 //
 //
-//Completion scopes: ["ClassInterfaceMethods"]
+//Completion scopes: ["All"]
 //
 Copy / Paste in Xcode:
 

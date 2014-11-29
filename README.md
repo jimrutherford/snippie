@@ -44,6 +44,7 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 * Private Interface - `privateint`
 * Property - strong - `pns`
 * View did dissapear - `vdd`
+* View Will Layout Subviews - `vwls`
 * View Will Dissappear - `vwd`
 * Pragma Mark - `mark`
 * Weak Self - `ws`
@@ -66,13 +67,18 @@ However, if you want to clear the existing snippets, and use the fresh ones, you
 * Init With Dictionary - `initdict`
 * StringWithFormat - `swf`
 * Value For Key - `vfk`
+* DDLogError - `lerror`
 * Property NSNumber - `pnum`
 *  - `conpragmas`
 * Singleton - `singleton`
 * Image named - `inamed`
 * Property IBOutlet custom class - `pibo`
 * UITableView delegate and datasource default methods - `delDat`
+* Font Size - `fsize`
 * Property NSArray - `parr`
 * Method declaration - `method`
 * JSON operation - `jsonop`
 * Void method declaration - `void`
+* Masonry Constraint Make - `mas_make`
+* Masonry Constraint Remake - `mas_remake`
+* Masonry Constraint Update - `mas_update`
