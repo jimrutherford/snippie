@@ -5,4 +5,4 @@
 //
 Copy / Paste in Xcode:
 
-@property (nonatomic, assign) id<<#protocol#>> delegate;
+@property (nonatomic, weak) id<<#protocol#>> delegate;

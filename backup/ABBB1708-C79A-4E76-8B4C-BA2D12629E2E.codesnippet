@@ -6,8 +6,7 @@
 	<string>swf</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>[NSString stringWithFormat:@"%&lt;#type#&gt;", &lt;#param#&gt;]</string>

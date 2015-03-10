@@ -1,7 +1,7 @@
 //StringWithFormat
 //
 //
-//Completion scopes: ["CodeExpression", "CodeBlock"]
+//Completion scopes: ["All"]
 //
 Copy / Paste in Xcode:
 

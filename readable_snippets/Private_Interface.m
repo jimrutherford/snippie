@@ -6,8 +6,5 @@
 Copy / Paste in Xcode:
 
 @interface <#className#>()
-{
-    
-}
 
 @end

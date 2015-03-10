@@ -10,9 +10,6 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@interface &lt;#className#&gt;()
-{
-    
-}
 
 @end</string>
 	<key>IDECodeSnippetIdentifier</key>
